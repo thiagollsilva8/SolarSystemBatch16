@@ -6,5 +6,6 @@ public class FeatureSun {
     String temp;
     String size;
     // String star;
+    // Int size in Km^2
 
 }
